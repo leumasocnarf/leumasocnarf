@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Sam! 
+# 👋 Hi, I'm Sam! 
 
 ## Languages: 
 <img src="https://img.shields.io/badge/Java-D00000?style=for-the-badge&&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
